@@ -1,0 +1,9 @@
+trainFile=./tweets.train
+crossValidationFolds=10
+useClassFeature=true
+1.splitWordsRegexp = \\s
+1.useSplitWords = true
+1.useNGrams = true
+1.usePrefixSuffixNGrams = true
+1.maxNGramLeng = 3
+1.minNGramLeng = 2
